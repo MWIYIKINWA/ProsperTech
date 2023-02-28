@@ -1,0 +1,22 @@
+.hid{
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100%);
+    transition: all 1s;
+  }
+  
+  .show{
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+  }
+
+.nav-item:hover{
+    border-bottom: 2px solid white;
+    transition: 1s ease;
+}
+
+.me-3{
+    height: 80px;
+    width: 100px;
+}
