@@ -3028,6 +3028,16 @@ textarea.form-control-lg {
   opacity: 0.65;
 }
 
+.btn-main{
+  color: #fff;
+  background-color: #14064d;
+  border-color: #14064d;
+}
+
+.bg-main{
+  background-color: #14064d;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #0d6efd;
